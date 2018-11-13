@@ -3,16 +3,20 @@ This project contains a boilerplate setup for using TensorFlow GPU inside docker
 
 Makes life easier setting up a dockerized environment for running Tensorflow with GPU support from your host machine.
 
+## Prerequisites
+This project is designed to work on Ubuntu. This is the only pre-requisite. It's been tested on Ubuntu 18.04.1 LTS.
+
 ## What's the point? 
 
-Setting up TensorFlow with GPU support can be really tough! Even with the premade docker image.
-You still need to provision your local machine with the correct versions of the following:
+Setting up TensorFlow with GPU support can be really tough! When I started out it took weeks to get up and running!
+
+Even with the help of the premade docker image, you still need to provision your local machine with the correct versions of the following:
 
 * CUDA 9.0
 * NVidia-Docker
 * TensorFlow's Docker Base image
 
-So I built this set of bash scripts for Debian / Ubuntu that enable you to set up and running with containerized TensorFlow with GPU support.  
+So I built this set of bash scripts for Debian / Ubuntu that enable you to set up and running with containerized TensorFlow with GPU support. I extended this by adding example tensorflow code. It's not the best example in the world for a machine learning project but I felt that it was simple enough to understand and easy to update.
 
 ## Getting started
 
