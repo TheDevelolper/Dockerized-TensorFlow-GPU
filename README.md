@@ -1,5 +1,5 @@
 # Dockerized-TensorFlow-GPU
-## A Boilerplate TensorFlow GPU in Docker Project
+This project contains a boilerplate setup for using TensorFlow GPU inside docker containers. It will create an image containing your python code along with the tensorflow runtime.
 
 Makes life easier setting up a dockerized environment for running Tensorflow with GPU support from your host machine.
 
