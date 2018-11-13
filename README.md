@@ -1,7 +1,7 @@
 # Dockerized-TensorFlow-GPU
-Makes life easier setting up a dockerized environment for running Tensorflow with GPU support from your host machine.
+## A Boilerplate TensorFlow GPU in Docker Project
 
-# A Boilerplate TensorFlow GPU in Docker Project
+Makes life easier setting up a dockerized environment for running Tensorflow with GPU support from your host machine.
 
 ## What's the point? 
 
