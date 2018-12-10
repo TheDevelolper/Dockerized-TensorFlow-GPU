@@ -1,3 +1,3 @@
 FROM tensorflow/tensorflow:latest-gpu
-ADD src /your-project/src
-WORKDIR /your-project/src
+ADD src /tensorflow-project/src
+WORKDIR /tensorflow-project/src
