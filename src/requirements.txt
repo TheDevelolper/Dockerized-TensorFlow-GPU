@@ -1,0 +1,5 @@
+scipy
+google_images_download
+Pillow
+flask
+keras
